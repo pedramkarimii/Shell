@@ -1,3 +1,3 @@
-# Python
-###  Small Python projects
+# Linux Shell
+###  Small shell projects
 
